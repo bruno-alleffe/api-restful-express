@@ -19,7 +19,7 @@
 
 ## Requisitos:
 
-- Instale as depênndencias;
+- Instale as depênndencias com o comando `npm install`;
 - Inicie a aplicação com o comando `npm run start`;
 - url da aplicação: `http://localhost:300`;
 - Eu utilizei a ferramenta `Postman` para realizar meus testes, ultilize a ferramenta que achar melhor;
